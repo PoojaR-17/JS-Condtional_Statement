@@ -20,3 +20,4 @@ Password Validator – Checks strength by enforcing multiple conditions.
 These exercises reinforce your understanding of conditional logic and prepare you for real-world scenarios. If you’re aiming for a deeper understanding, dive into modern patterns like pattern matching, which is gaining traction in newer JavaScript versions!
 
 Happy coding, and let conditional statements guide you in making smarter decisions in your applications!
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7259860044333133825" height="1182" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
